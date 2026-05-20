@@ -158,7 +158,6 @@ Customer segmentation analysis
 
 Shrikant Jarande
 
-GitHub: Your https://github.com/shrikanttt2901/Customer-Behavior-Data-Analyst-Portfolio-Project/edit/main/README.md
-LinkedIn: 
-
+GitHub: https://github.com/shrikanttt2901/Customer-Behavior-Data-Analyst-Portfolio-Project/edit/main/README.md
+ 
 LinkedIn Link
