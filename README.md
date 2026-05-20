@@ -98,6 +98,7 @@ Top discounted products
 Customer segmentation analysis
 Top products within each category
 Revenue contribution by age group
+
 📈 Power BI Dashboard
 
 The dashboard includes:
@@ -130,6 +131,7 @@ Example:
 
 
 📁 Project Structure
+
 Customer-Behaviour-Analysis/
 │
 ├── Dataset/
@@ -138,6 +140,7 @@ Customer-Behaviour-Analysis/
 ├── Power BI Dashboard/
 ├── Images/
 └── README.md
+
 🎯 Key Insights
 Discount campaigns influence purchase behavior
 Loyal customers generate higher revenue
