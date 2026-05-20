@@ -128,6 +128,8 @@ Add your Power BI dashboard screenshots here
 Example:
 
 ![Dashboard Screenshot](images/dashboard.png)
+
+
 📁 Project Structure
 Customer-Behaviour-Analysis/
 │
@@ -157,4 +159,6 @@ Customer segmentation analysis
 Shrikant Jarande
 
 GitHub: Your https://github.com/shrikanttt2901/Customer-Behavior-Data-Analyst-Portfolio-Project/edit/main/README.md
-LinkedIn: Your LinkedIn Link
+LinkedIn: 
+
+LinkedIn Link
