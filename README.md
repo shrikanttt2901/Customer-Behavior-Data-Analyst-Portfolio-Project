@@ -11,9 +11,7 @@ Revenue generation
 Marketing strategies
 Product demand analysis
 Customer segmentation
-
 The project includes:
-
 Data Cleaning & Preprocessing using Python
 Exploratory Data Analysis (EDA)
 SQL-based Business Insights
@@ -75,6 +73,7 @@ Size	Category-wise filling
 Review Rating	Product-level mean
 Purchase Amount	Mean imputation
 Previous Purchases	Filled with 0
+
 📊 Exploratory Data Analysis (EDA)
 
 Performed detailed EDA to understand:
