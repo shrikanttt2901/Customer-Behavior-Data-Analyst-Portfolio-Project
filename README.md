@@ -145,21 +145,6 @@ The dashboard includes:
 
 ---
 
-# 🚀 Project Workflow
-
-```text
-Raw Dataset
-     ↓
-Python Data Cleaning
-     ↓
-EDA using Pandas
-     ↓
-SQL Server Analysis
-     ↓
-Power BI Dashboard
-     ↓
-Business Insights
-
 📷 Project Screenshots
 
 Add your Power BI dashboard screenshots here.
@@ -194,4 +179,4 @@ Customer segmentation analysis
 👨‍💻 Author
 Shrikant Jarande
 GitHub: https://github.com/shrikanttt2901
-LinkedIn: 
+LinkedIn: Add Your LinkedIn Profile Link
