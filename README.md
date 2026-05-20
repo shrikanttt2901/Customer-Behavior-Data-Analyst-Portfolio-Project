@@ -127,7 +127,7 @@ Add your Power BI dashboard screenshots here
 
 Example:
 
-![Dashboard Screenshot](images/Dashboard1.png)
+![Dashboard Screenshot](Dashboard1.png)
 
 
 📁 Project Structure
