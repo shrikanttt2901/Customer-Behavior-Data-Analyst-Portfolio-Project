@@ -162,25 +162,34 @@ Customer-Behaviour-Analysis/
 ├── Images/
 └── README.md
 
-##🎯 Key Insights
+# 🎯 Key Insights
 
-#Discount campaigns influence purchase behavior
-Loyal customers generate higher revenue
-Seasonal trends impact sales significantly
-Subscription users spend more on average
-Certain product categories dominate revenue
+- Discount campaigns influence customer purchasing behavior.
+- Loyal customers generate higher revenue than one-time buyers.
+- Seasonal trends significantly affect overall sales performance.
+- Subscribed customers spend more compared to non-subscribed customers.
+- Certain product categories contribute the highest share of revenue.
+- Digital payment methods are preferred by most customers.
+- Customer segmentation helps improve targeted marketing strategies.
 
-##📚 Learning Outcomes
+# 📚 Learning Outcomes
 
-#Through this project, I learned:
+Through this project, I learned:
 
-_Real-world data cleaning techniques
-Business-focused EDA
-SQL analytical queries
-Dashboard design in Power BI
-Customer segmentation analysis
+- Real-world data cleaning and preprocessing techniques
+- Handling missing values using business logic
+- Exploratory Data Analysis (EDA) using Python
+- Writing SQL queries for business problem-solving
+- Customer segmentation and behavioral analysis
+- Data visualization and dashboard creation in Power BI
+- Generating business insights from raw data
+- End-to-end data analytics project workflow
 
-##👨‍💻 Author
-#Shrikant Jarande
-GitHub: https://github.com/shrikanttt2901
-LinkedIn:
+---
+
+# 👨‍💻 Author
+
+## Shrikant Jarande
+
+- GitHub: https://github.com/shrikanttt2901
+- LinkedIn: Add Your LinkedIn Profile Link
