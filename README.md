@@ -161,23 +161,26 @@ Customer-Behaviour-Analysis/
 ├── Power BI Dashboard/
 ├── Images/
 └── README.md
-#🎯 Key Insights
-Discount campaigns influence purchase behavior
+
+##🎯 Key Insights
+
+#Discount campaigns influence purchase behavior
 Loyal customers generate higher revenue
 Seasonal trends impact sales significantly
 Subscription users spend more on average
 Certain product categories dominate revenue
-📚 Learning Outcomes
+
+##📚 Learning Outcomes
 
 #Through this project, I learned:
 
-Real-world data cleaning techniques
+_Real-world data cleaning techniques
 Business-focused EDA
 SQL analytical queries
 Dashboard design in Power BI
 Customer segmentation analysis
 
-#👨‍💻 Author
-Shrikant Jarande
+##👨‍💻 Author
+#Shrikant Jarande
 GitHub: https://github.com/shrikanttt2901
 LinkedIn:
