@@ -145,7 +145,7 @@ The dashboard includes:
 
 ---
 
-📷 Project Screenshots
+#📷 Project Screenshots
 
 Add your Power BI dashboard screenshots here.
 
@@ -161,7 +161,7 @@ Customer-Behaviour-Analysis/
 ├── Power BI Dashboard/
 ├── Images/
 └── README.md
-🎯 Key Insights
+#🎯 Key Insights
 Discount campaigns influence purchase behavior
 Loyal customers generate higher revenue
 Seasonal trends impact sales significantly
@@ -169,14 +169,15 @@ Subscription users spend more on average
 Certain product categories dominate revenue
 📚 Learning Outcomes
 
-Through this project, I learned:
+#Through this project, I learned:
 
 Real-world data cleaning techniques
 Business-focused EDA
 SQL analytical queries
 Dashboard design in Power BI
 Customer segmentation analysis
-👨‍💻 Author
+
+#👨‍💻 Author
 Shrikant Jarande
 GitHub: https://github.com/shrikanttt2901
-LinkedIn: Add Your LinkedIn Profile Link
+LinkedIn:
